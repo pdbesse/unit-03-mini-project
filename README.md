@@ -1,1 +1,1 @@
-# unit-03-mini-project
+# rock-paper-scissors
